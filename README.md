@@ -8,4 +8,4 @@ Technologies used: Python, SQL (PostgreSQL), Power BI, Pandas, Numpy, SciPy, Mat
 
 Planned architecture?:
 
-Project Roadmap?: Hello Still cooking
+Project Roadmap?: Hello Still cookingfring
